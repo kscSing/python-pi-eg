@@ -1,6 +1,7 @@
 #!/usr/bin/python3.6
 
 def main(msg):
+    // ANother comment
     // Adding a different comment at pi
     // this is edited from pi2
     print(msg)
