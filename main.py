@@ -5,3 +5,4 @@ def main(msg):
 
 print("Hello World!")
 main("Hello People!")
+main("What a beautiful day!")
